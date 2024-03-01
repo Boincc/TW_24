@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ /*Устанавливаем цвет фона для всего сайта */
+body {
+    background-color: rgba(211, 0, 0, 0);
+}
